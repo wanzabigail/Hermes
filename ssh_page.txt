@@ -1,0 +1,120 @@
+Rp.0,00
+BebasSantoso
+MENU
+Dashboard
+PPOB
+NEW
+MyXL
+NEW
+Akun Saya
+Saldo
+Voucher
+Layanan Saya
+Buat Akun
+SSH
+Trojan
+VMess
+VLess
+ZIVPN
+Always On
+Converter
+Bantuan
+Komunitas
+Server Status
+DOKUMENTASI
+Panduan (Artikel)
+Dokumentasi Wildcard
+API Dokumentasi
+SSH
+SSH
+Select Server
+Indonesia Premium 1
+Informasi Server
+
+- ISP : Atha Media Prima
+- Lokasi : Indonesia
+- Harga (Bulanan) : Rp.10.000
+- Harga (Per-Jam) : Rp.15,62/Jam
+- Status Server : Online
+- Account Creation : Ready
+- Limit Account Creation : 2.5 %
+
+
+Layanan Tersedia
+
+- SSH
+- SSH SSL
+- SSH WebSocket
+- SSH SSL WebSocket
+- UDP Custom
+
+
+Buat Akun
+Indonesia Premium 2
+Informasi Server
+
+- ISP : Wijaya
+- Lokasi : Indonesia
+- Harga (Bulanan) : Rp.10.000
+- Harga (Per-Jam) : Rp.15,62/Jam
+- Status Server : Online
+- Account Creation : Ready
+- Limit Account Creation : 3.33 %
+
+
+Layanan Tersedia
+
+- SSH
+- SSH SSL
+- SSH WebSocket
+- SSH SSL WebSocket
+- UDP Custom
+
+
+Buat Akun
+Indonesia Premium 4
+Informasi Server
+
+- ISP : AwanData
+- Lokasi : Singapore
+- Harga (Bulanan) : Rp.10.000
+- Harga (Per-Jam) : Rp.15,62/Jam
+- Status Server : Online
+- Account Creation : Ready
+- Limit Account Creation : 33.33 %
+
+
+Layanan Tersedia
+
+- SSH
+- SSH SSL
+- SSH WebSocket
+- SSH SSL WebSocket
+- UDP Custom
+
+
+ Terkunci
+Singapore Premium 1
+Informasi Server
+
+- ISP : Melbicom (2)
+- Lokasi : Indonesia
+- Harga (Bulanan) : Rp.10.000
+- Harga (Per-Jam) : Rp.15,62/Jam
+- Status Server : Online
+- Account Creation : Ready
+- Limit Account Creation : 46.67 %
+
+
+Layanan Tersedia
+
+- SSH
+- SSH SSL
+- SSH WebSocket
+- SSH SSL WebSocket
+- UDP Custom
+
+
+ Terkunci
+2020-2026 © Sahabat SSH
+Developed by Sahabat SSH (V.3.1.5)
